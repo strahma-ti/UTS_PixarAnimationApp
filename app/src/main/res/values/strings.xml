@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS - Pixar Animations</string>
+    <string name="animation_name">Nama Film</string>
+    <string name="animation_date">Tanggal Rilis</string>
+    <string name="animation_director">Director</string>
+    <string name="rating">Rating</string>
+    <string name="description">Deksripsi</string>
+</resources>
