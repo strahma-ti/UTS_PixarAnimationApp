@@ -8,7 +8,7 @@ Aplikasi ini memudahkan pengguna untuk menelusuri dan mengetahui lebih banyak te
 Berikut adalah beberapa screenshot tampilan mobile dari proyek ini.
 
 ### Halaman Beranda
-![Beranda](screenshots/beranda-mobile.png)
+![Beranda](screenshots/beranda.jpeg)
 
 ### Halaman Detail
-![Detail](screenshots/profil-mobile.png)
+![Detail](screenshots/detail_view.jpeg)
