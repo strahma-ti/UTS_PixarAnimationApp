@@ -11,4 +11,4 @@ Berikut adalah beberapa screenshot tampilan mobile dari proyek ini.
 [![beranda.jpg](https://i.postimg.cc/qMXGkcfW/beranda.jpg)](https://postimg.cc/56yzgC2m)
 
 ### Halaman Detail
-[![detail-view.jpg](https://i.postimg.cc/2SZXFbgw/detail-view.jpg)](https://postimg.cc/zyqjqBzb)
+[![detail-view.jpg](https://i.postimg.cc/pdgjQybD/detail-view.jpg)](https://postimg.cc/R3Lq4S0F)
